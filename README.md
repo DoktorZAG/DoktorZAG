@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoktorZ
+- 👋 Hi, my name is Dr. Kostyantyn Zagorodniy, or simple Kostya.
 - My very private repo is https://github.com/Korvin32
 - 👀 I’m interested in collaborations, exchange, co-working
 - 🌱 I’m currently learning Front-End development, especially Angular
