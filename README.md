@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Dr. Kostyantyn Zagorodniy, or simple Kostya.
-- My very private repo is https://github.com/Korvin32
+- My old fall-back repo is https://github.com/Korvin32
 - 👀 I’m interested in collaborations, exchange, co-working
-- 🌱 I’m currently learning Front-End development, especially Angular
+- 🌱 I’m currently diving deep into Front-End development (Angular, Vue, Flutter)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
